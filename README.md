@@ -31,5 +31,5 @@ Test the model: Run the prediction code provided in this repository, specifying 
 Dependencies
 Python
 OpenCV
+
 NumPy
-Feel free to modify and expand upon this description to best suit your project. Good luck with your GitHub repository!
