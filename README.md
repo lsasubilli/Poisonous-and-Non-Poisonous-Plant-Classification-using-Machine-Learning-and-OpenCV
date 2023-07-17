@@ -1,10 +1,11 @@
-Poisonous and Non-Poisonous Plant Classification
+Poisonous and Non-Poisonous Plant Classification:
+
 This project focuses on classifying images of plants as either poisonous or non-poisonous using machine learning techniques. The goal is to develop an image classifier that can help identify potentially harmful plants based on visual characteristics.
 
-Overview
+Overview: 
 The project utilizes the OpenCV library in Python to train a Support Vector Machine (SVM) model on a dataset of images representing poisonous and non-poisonous plants. The dataset is obtained from Kaggle and consists of labeled images of various plant species. The SVM model is trained to learn the distinguishing features between poisonous and non-poisonous plants.
 
-Steps Involved
+Steps Involved:
 Dataset Preparation: The dataset is organized into separate folders for training and testing. Each folder contains subfolders representing the classes (poisonous and non-poisonous), with image files inside them.
 
 Image Preprocessing: The images are preprocessed to ensure consistency in size, format, and quality. Common preprocessing techniques such as resizing, normalization, and any necessary additional steps are applied.
@@ -31,5 +32,4 @@ Test the model: Run the prediction code provided in this repository, specifying 
 Dependencies
 Python
 OpenCV
-
 NumPy
